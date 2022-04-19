@@ -34,4 +34,5 @@ $mapped = array_map(function ($order) {
 
 echo \Bitrix\Main\Web\Json::encode($mapped);
 
+
 ?>
